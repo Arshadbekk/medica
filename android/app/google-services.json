@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021246960450",
+    "project_id": "medica-37176",
+    "storage_bucket": "medica-37176.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021246960450:android:e4ce5907f70bc4b7ba0edb",
+        "android_client_info": {
+          "package_name": "com.example.medica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Geel6y2tvpjRT-1RRzE9bTLFuVhdQLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
