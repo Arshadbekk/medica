@@ -35,6 +35,9 @@ class _profilePageState extends State<profilePage> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
+
+
+
           Center(
             child: CircleAvatar(
               radius: width*0.15,
